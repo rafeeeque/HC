@@ -1,0 +1,39 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "in.pixcelmedia.homecity"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "in.pixcelmedia.homecity"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "in.pixcelmedia.homecity"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "in.pixcelmedia.homecity"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "in.pixcelmedia.homecity"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "in.pixcelmedia.homecity"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "in.pixcelmedia.homecity"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "in.pixcelmedia.homecity"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "in.pixcelmedia.homecity"
+    }
+  },
+  "dependent_plugins": {}
+}
